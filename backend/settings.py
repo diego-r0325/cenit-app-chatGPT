@@ -44,7 +44,7 @@ class _UiSettings(BaseSettings):
     title: str = "Cenit BOT"
     logo: Optional[str] = None
     chat_logo: Optional[str] = None
-    chat_title: str = "Start chatting"
+    chat_title: str = "Empezar a chatear"
     chat_description: str = "Este chatbot está configurado para responder a tus preguntas"
     favicon: str = "/favicon.ico"
     show_share_button: bool = True
