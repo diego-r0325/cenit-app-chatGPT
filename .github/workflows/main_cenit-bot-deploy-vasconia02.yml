@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'cenit-bot-deploy-vasconia02'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BA7E54BCAB8443A58B15E6C4ED6ED09F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_413517FBF05E48C387870865221E6D72 }}
